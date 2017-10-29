@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rau hữu cơ</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="slogan">Niềm tin gói gọn trong từng sản phẩm</string>
+    <string name="signup">Nếu chưa có tài khoản, hãy bấm nút đăng ký</string>
+    <string name="signin">Đã có tài khoản, hãy đăng nhập</string>
+</resources>
